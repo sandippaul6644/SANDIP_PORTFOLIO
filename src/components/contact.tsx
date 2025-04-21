@@ -129,7 +129,7 @@ export const Contact = () => {
           className="flex-[0.75] bg-black-100 p-8 rounded-2xl"
         >
           {/* Title */}
-          <p className={styles.sectionSubText}>Get in touch</p>
+          <p className={styles.sectionSubText}>Get in touch or Give a call 7318886644/7718175157</p>
           <h3 className={styles.sectionHeadText}>Contact.</h3>
 
           {/* Form */}

@@ -147,10 +147,11 @@ export const EXPERIENCES = [
     iconBg: "#383E56",
     date: "JAN 2025 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developing full-featured web applications using modern frontend frameworks like React and robust backend technologies like Node.js.",
+      "Creating scalable backend architectures and managing APIs to support dynamic and data-driven user interfaces.",
+      "Implementing responsive UI designs and ensuring consistent behavior across devices and browsers.",
+      "Managing both SQL and NoSQL databases for optimized data handling and application performance.",
+      "Working across the stack to debug issues, optimize performance, and ensure a smooth deployment pipeline.",
     ],
   },
   {
@@ -160,10 +161,11 @@ export const EXPERIENCES = [
     iconBg: "#E6DEDD",
     date: "APR 2023 - JAN 2025",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Designing and developing robust RESTful APIs and backend services using Node.js and Express.",
+      "Integrating databases like MongoDB and PostgreSQL to manage and store application data efficiently.",
+      "Collaborating with frontend developers to deliver seamless end-to-end user experiences.",
+      "Implementing authentication, authorization, and other security best practices to safeguard application data.",
+      "Writing clean, modular code and participating in code reviews to maintain high development standards.",
     ],
   },
 
@@ -174,10 +176,10 @@ export const EXPERIENCES = [
     iconBg: "#E6DEDD",
     date: "May 2022 - Jan 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Building interactive and user-friendly interfaces with React.js and modern JavaScript.",
+      "Translating design mockups into pixel-perfect, responsive web pages.",
+      "Collaborating closely with UX/UI designers and backend developers to deliver seamless user experiences.",
+      "Debugging and optimizing frontend performance for faster load times and better usability.",
     ],
   },
 ] as const;
